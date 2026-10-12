@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Geunhwa Jeong
+// SPDX-License-Identifier: Apache-2.0
+
 /// Memecoin template for the Haneul launchpad.
 ///
 /// Metadata goes into the CoinRegistry (`Currency<MEME>` is sent to 0xc by

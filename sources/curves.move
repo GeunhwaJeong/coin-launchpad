@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Geunhwa Jeong
+// SPDX-License-Identifier: Apache-2.0
+
 /// Constant-product bonding-curve math (x * y = k over virtual reserves).
 ///
 /// All arithmetic goes through `utils::U256`; `utils::sub` aborts with 2 on

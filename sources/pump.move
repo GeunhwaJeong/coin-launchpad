@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Geunhwa Jeong
+// SPDX-License-Identifier: Apache-2.0
+
 /// Bonding-curve memecoin launchpad for Haneul.
 ///
 /// Design notes

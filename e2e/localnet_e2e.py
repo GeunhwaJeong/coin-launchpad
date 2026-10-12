@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Geunhwa Jeong
+# SPDX-License-Identifier: Apache-2.0
 """Localnet end-to-end test for haneul_pump.
 
 Flow: publish launchpad + memecoin template -> tune config -> create pool ->

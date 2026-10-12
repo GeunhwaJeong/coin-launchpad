@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Geunhwa Jeong
+// SPDX-License-Identifier: Apache-2.0
+
 /// 256-bit unsigned integer emulated with four u64 words.
 ///
 /// Port of the Pontem `u256.move` library that predates native `u256` in Move.
