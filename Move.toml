@@ -1,0 +1,12 @@
+[package]
+name = "haneul_pump"
+edition = "2024"
+# Bonding-curve memecoin launchpad for Haneul.
+# Build/test: haneul move test --build-env mainnet
+
+[dependencies]
+Haneul = { local = "./deps/haneul-framework/packages/haneul-framework" }
+MoveStdlib = { local = "./deps/haneul-framework/packages/move-stdlib" }
+
+[addresses]
+haneul_pump = "0x0"
