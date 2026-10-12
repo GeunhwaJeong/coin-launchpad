@@ -1,0 +1,13 @@
+[package]
+name = "memecoin_template"
+edition = "2024"
+# Template for a coin launched through haneul_pump. The backend publishes one
+# copy per memecoin (module/OTW renamed), then calls `pump::create` with the
+# TreasuryCap in the same PTB or right after.
+
+[dependencies]
+Haneul = { local = "../../deps/haneul-framework/packages/haneul-framework" }
+MoveStdlib = { local = "../../deps/haneul-framework/packages/move-stdlib" }
+
+[addresses]
+memecoin_template = "0x0"
