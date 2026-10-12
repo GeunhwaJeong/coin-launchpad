@@ -99,3 +99,7 @@ deps/haneul-framework/           vendored Haneul framework (see SOURCE_REV.txt)
 2. Backend that publishes the coin module and calls `create` in one flow.
 3. Keep the `TreasuryCap` inside the `CoinRegistry` (`make_supply_fixed_init`)
    so wallets display the supply as fixed.
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
